@@ -1,0 +1,35 @@
+*{
+				box-sizing: border box;
+				}
+
+body{
+				margin: 0;
+				background-color: #000000;
+				}
+
+#texto{
+				width: 100%;
+				height: auto;
+				border: dotted 3px coral;
+				margin: 10px auto;
+				padding: 5px; 
+				background-color: #ffd1dc;
+				}
+#texto li{
+				font-family:cursive;
+				font-size:	25px;
+				}
+
+#texto h1{
+				font-family:cursive;
+				}
+
+#texto h2{
+				font-family:cursive;
+				}
+
+.img1{
+				height:340px;
+				width: 340px;
+
+				}
